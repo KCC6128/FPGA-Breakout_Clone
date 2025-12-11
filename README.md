@@ -6,7 +6,7 @@
 - 開發環境 : Quartus 13.1
   
 ## 照片
-  <img src="./images/game.jpg" width="300">
+<img src="./images/game.jpg" width="300">
   
 ## 功能說明
 a. 七段顯示器顯示累計得分數  
@@ -19,10 +19,10 @@ g. 勝利時顯示 WIN，失敗時顯示 LOSE
 h. 打到磚塊時發出聲音  
 
 ## WIN
-  <img src="./images/win.jpg" width="300">
+<img src="./images/win.jpg" width="300">
   
 ## LOSE
-  <img src="./images/lose.jpg" width="300">
+<img src="./images/lose.jpg" width="300">
   
 ## 使用到的硬體裝置
 - 按壓鍵 × 3：左右移動、發射
