@@ -1,4 +1,5 @@
 # FPGA-Breackout_Clone
+Breakout game clone implemented in Verilog for FPGA
 
 ## 語言環境
 * 語言 : Verilog
