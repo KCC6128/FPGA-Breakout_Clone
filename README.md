@@ -6,23 +6,23 @@
 - 開發環境 : Quartus 13.1
   
 ## 照片
-  ![game](./images/game.jpg)
+  ![game]<img src="./images/game.jpg" width="300">
   
 ## 功能說明
-a. 七段顯示器顯示累計得分數 \
-b. LED燈顯示血條 \
-c. 黃色障礙物來阻擋球 \
-d. 每打到磚塊得一分 \
-e. 除原本的球之外，會偶爾出現特殊球(粉紅球)無視障礙物直接打到磚塊 \
-f. 可手動調整球速 \
-g. 勝利時會在8X8 RGB顯示WIN，輸了會顯示LOSE \
-h. 打到磚塊會發出聲音 
+a. 七段顯示器顯示累計得分數  
+b. LED燈顯示血條  
+c. 黃色障礙物來阻擋球  
+d. 每打到磚塊得一分  
+e. 偶爾出現特殊球（粉紅球），無視障礙物直接打到磚塊  
+f. 可手動調整球速  
+g. 勝利時顯示 WIN，失敗時顯示 LOSE  
+h. 打到磚塊時發出聲音  
 
 ## WIN
-  ![win](./images/win.jpg)  
+  ![win]<img src="./images/win.jpg" width="300">
   
 ## LOSE
-  ![lose](./images/lose.jpg)
+  ![lose]<img src="./images/lose.jpg" width="300">
   
 ## 使用到的硬體裝置
 - 按壓鍵 × 3：左右移動、發射
